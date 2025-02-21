@@ -1,4 +1,4 @@
-- 👋 Hello, I'm @NikiDelgadoO
+- 👋 Hi, I'm @NikiDelgadoO
 - 👀 I'm interested in the world of data.
 - 🌱 I am currently learning database management.
 - 💞️ I am looking to collaborate on interesting projects at junior level.
